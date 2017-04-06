@@ -1,0 +1,17 @@
+{
+    "buildNpmdoc":"autobind-decorator",
+    "devDependencies": {
+        "autobind-decorator": "*",
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "name":"npmdoc-autobind-decorator",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmdoc/node-npmdoc-autobind-decorator"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh"
+    },
+    "version": "0.0.1"
+}
