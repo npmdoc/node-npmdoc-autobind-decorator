@@ -1,6 +1,6 @@
 # npmdoc-autobind-decorator
 
-#### api documentation for  [autobind-decorator (v1.4.0)](https://github.com/andreypopp/autobind-decorator#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-autobind-decorator.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-autobind-decorator) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-autobind-decorator.svg)](https://travis-ci.org/npmdoc/node-npmdoc-autobind-decorator)
+#### basic api documentation for  [autobind-decorator (v1.4.0)](https://github.com/andreypopp/autobind-decorator#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-autobind-decorator.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-autobind-decorator) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-autobind-decorator.svg)](https://travis-ci.org/npmdoc/node-npmdoc-autobind-decorator)
 
 #### Decorator for binding method to an object
 
@@ -74,7 +74,8 @@
         "test": "make test"
     },
     "types": "./index.d.ts",
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 
